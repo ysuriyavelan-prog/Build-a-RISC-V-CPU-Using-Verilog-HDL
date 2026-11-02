@@ -1,0 +1,99 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/fpga/modelsim/projects/8bitfulladder with register
+vdff_9bit
+!s110 1793611422
+!i10b 1
+!s100 Vmc=I3f^0?F:Yi70c;:9[1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I4KT^FlRlJI?]z[^U`>c[W2
+R0
+w1793611175
+8dff_9bit.v
+Fdff_9bit.v
+!i122 1
+L0 1 16
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2020.3;71
+r1
+!s85 0
+31
+!s108 1793611422.000000
+!s107 dff_9bit.v|
+!s90 -reportprogress|300|dff_9bit.v|
+!i113 1
+Z4 tCvgOpt 0
+vfull_adder_8bit
+!s110 1793611402
+!i10b 1
+!s100 T==n53To:o4Fm?4aTP8Ig0
+R1
+I:Q?C6:L@=ISmoiCU`_F>>0
+R0
+w1793611122
+8full_adder_8bit.v
+Ffull_adder_8bit.v
+!i122 0
+L0 1 11
+R2
+R3
+r1
+!s85 0
+31
+!s108 1793611402.000000
+!s107 full_adder_8bit.v|
+!s90 -reportprogress|300|full_adder_8bit.v|
+!i113 1
+R4
+vregistered_adder
+!s110 1793611444
+!i10b 1
+!s100 DQ6jz=kZ:Mk<AUJhY]aVD2
+R1
+I>4VXUnA[4:[UEn9dF<7Fm2
+R0
+w1793611243
+8registered_adder.v
+Fregistered_adder.v
+!i122 2
+L0 1 37
+R2
+R3
+r1
+!s85 0
+31
+!s108 1793611444.000000
+!s107 registered_adder.v|
+!s90 -reportprogress|300|registered_adder.v|
+!i113 1
+R4
+vtb_registered_adder
+!s110 1793611468
+!i10b 1
+!s100 `S14mEd9Q23:KCbdVZz5M2
+R1
+IYG2I7gS>U2Mhh3^15AfTk3
+R0
+w1793611299
+8tb_registered_adder.v
+Ftb_registered_adder.v
+!i122 3
+L0 1 56
+R2
+R3
+r1
+!s85 0
+31
+!s108 1793611468.000000
+!s107 tb_registered_adder.v|
+!s90 -reportprogress|300|tb_registered_adder.v|
+!i113 1
+R4
